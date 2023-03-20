@@ -1,0 +1,5 @@
+O total de mascaras infantil lisa vendidas hoje foi de: 0 e o lucro foi de: 0 
+O total de mascaras infantil estampada vendidas hoje foi de: 5 e o lucro foi de: 20 
+O total de mascaras adulto lisa vendidas hoje foi de: 0 e o lucro foi de: 0 
+O total de mascaras adulto estampada vendidas hoje foi de: 0 e o lucro foi de: 0 
+Quantidade de mascaras de todos os tipos vendidas hoje: 5

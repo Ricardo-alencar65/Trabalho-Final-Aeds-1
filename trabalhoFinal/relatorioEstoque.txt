@@ -1,0 +1,4 @@
+O estoque de mascaras infantil lisa é: 50 
+O estoque de mascaras infantil estampada é: 46 
+O estoque de mascaras adulto lisa é: 50 
+O estoque de mascaras adulto estampada é: 50
